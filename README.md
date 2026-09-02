@@ -6,6 +6,8 @@ Vantle is being built to connect the sales, inventory, ERP, and supplier systems
 
 [View the live prototype](https://vantle.vercel.app/) · [Read the design system](./DESIGN.md)
 
+![Vantle operational-intelligence homepage](./public/vantle-hero-signal-poster.jpg)
+
 ## Why Vantle exists
 
 Supermarkets generate operational data every day, but procurement and inventory decisions are often fragmented and reactive. Vantle explores a clearer operating model:
