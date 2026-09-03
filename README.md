@@ -1,12 +1,14 @@
 # Vantle
 
-**An AI operational layer for supermarkets.**
+**A supermarket operations prototype exploring AI-assisted decisions.**
+
+Current stage: an interactive frontend prototype using representative scenarios.
 
 Vantle is being built to connect the sales, inventory, ERP, and supplier systems a supermarket already uses. It turns changing demand, stock, and waste signals into explainable recommendations while keeping consequential decisions under manager control.
 
-[View the live prototype](https://vantle.vercel.app/) · [Read the design system](./DESIGN.md)
+[View the live prototype](https://vantle-2-0.vercel.app/) · [Read the design system](./DESIGN.md)
 
-![Vantle operational-intelligence homepage](./public/vantle-hero-signal-poster.jpg)
+![Vantle supermarket operations visual concept](./public/vantle-hero-signal-poster.jpg)
 
 ## Why Vantle exists
 
@@ -50,6 +52,8 @@ Supermarkets generate operational data every day, but procurement and inventory 
 ## Run locally
 
 ```bash
+git clone https://github.com/rayyan-farhad/vantle-2.0.git
+cd vantle-2.0
 npm install
 npm run dev
 ```
